@@ -1,5 +1,7 @@
 # 💫 About Me:
-Hi there, I'm Nguyen Nho Chi Thien<br>I am a Backend Engineer focused on designing scalable architectures and integrating intelligent AI solutions into modern applications. With a strong foundation in Java and Go, alongside Python for AI workflows, I build robust APIs, microservices, and high-performance semantic search engines.<br>Currently diving deep into Agentic AI, focusing on building intelligent agents and decision flows using the Eino framework.
+Hi there, I'm Nguyen Nho Chi Thien
+I am a Backend Engineer focused on designing scalable architectures and integrating intelligent AI solutions into modern applications. With a strong foundation in Java and Go (leveraging the Encore framework), alongside Python for AI workflows, I build robust APIs and smart RAG applications.
+Currently diving deep into Agentic AI, focusing on building intelligent agents and decision flows using the Eino framework.
 
 
 ## 🌐 Socials:
